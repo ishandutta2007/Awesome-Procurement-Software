@@ -80,7 +80,7 @@ The repositories below are organized by category and sorted in **descending orde
 
 ### 🏢 Full Procure-to-Pay & ERP Suites
 
-| Repository | Stars | Description | Focus Areas |
+| Repository | Github_Stars | Description | Focus Areas |
 | :--- | :--- | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Major open-source business suite with purchasing, RFQs, vendor management, POs, inventory integration, and automated 3-way matching. | P2P, Purchase Orders, RFQ, Invoicing |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Modern full-stack open-source ERP with end-to-end procurement: material requests, RFQs, supplier quotations, purchase orders, receipts, and budgeting. | Source-to-Pay, Supplier Quotation, POs |
